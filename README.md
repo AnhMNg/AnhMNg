@@ -1,4 +1,4 @@
-{Hi, I’m Nguyen Anh Minh}
+# {Hi, I’m Nguyen Anh Minh}
 - Software Engineering student of FPT University - Vietnam
 - ART IN CODE, I am finding what it means,
 - Nice to meet you all
